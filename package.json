@@ -1,0 +1,17 @@
+{
+  "name": "gabe-portfolio-app",
+  "version": "1.0.0",
+  "description": "A single page portfolio of my work using react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Gabriel Houle",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "@babel/preset-react": "^7.18.6"
+  }
+}
